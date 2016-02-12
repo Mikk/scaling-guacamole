@@ -1,0 +1,14 @@
+Csgo stakeing juures olev "?" märki klikkides avab väike pop up mis seletab et selle lingi sõbrale saates saab sõber game lobbisse
+Vasakul olev "?" seletab kuidas leht enamvähem töötab
+Paremal oleva mängija drag drop(v klikitav) mehaanika töötav samamoodi nagu vasakul pool näidatud on
+Kõik itemid mis keskele pannakse on itemid mida mängija panustab
+Confirm klikkides enam mängija asju lisada ei saa
+Kui esimene mängija on confirminud ja teine mängija teeb muudatusi oma panustatud itemites siis siis esimese mängija Confirm katkestub
+Keskel olev kast määrab ära mängu setingud
+Keskel on väike chatbox mille läbi suhelda saab
+Steami kaudu loodav log in süsteem
+Kui mõlemal mängijal on vajutatud confirm siis tekib steami "SteamBoti" abil mõlemale Trade invite kus antakse bettitavad itemid stakemisele ja peale seda
+saavad mõlemad mängijad vajutada "Join Game"
+Kui "SteamBot" ei saa mõlemalt mängijalt mingi teatud aja jooksul itemeid, siis match katkeb ja juba antud itemid tagastatakse originaalsele omanikule
+Join game saadab mõlemad mängijad CS go mängu priva serverisse
+Inventory on lehtede kaupa mitte skrollimisega
