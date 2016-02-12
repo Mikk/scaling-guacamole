@@ -2,4 +2,4 @@
 
 [Projekti plaan](https://bitbucket.org/bestestmen/aalosesto72/wiki/Projekti%20Plaan)
 
-[Etapp 1](https://bitbucket.org/bestestmen/aalosesto72/wiki/Etapp%201)
+[Etapp 1(Prototüüp)](https://bitbucket.org/bestestmen/aalosesto72/wiki/Etapp%201)
