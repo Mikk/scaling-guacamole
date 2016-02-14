@@ -1,3 +1,4 @@
+MainPage :
 Csgo stakeing juures olev "?" märki klikkides avab väike pop up mis seletab et selle lingi sõbrale saates saab sõber game lobbisse
 Vasakul olev "?" seletab kuidas leht enamvähem töötab
 Paremal oleva mängija drag drop(v klikitav) mehaanika töötav samamoodi nagu vasakul pool näidatud on
