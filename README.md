@@ -3,3 +3,5 @@
 [Projekti plaan](https://bitbucket.org/bestestmen/aalosesto72/wiki/Projekti%20Plaan)
 
 [Etapp 1(Prototüüp)](https://bitbucket.org/bestestmen/aalosesto72/wiki/Etapp%201)
+
+[Veebirakenduse funktsionaalsused](https://docs.google.com/document/d/1s4PboF3LqdqDTP71MlH-1GsJKhU_XMqGiQywAIjQ71w/edit?usp=sharing)
